@@ -1,0 +1,6 @@
+#Pthon-env
+/python-excel-env
+
+#pycatche bytecode to ignore
+__pycache__/
+*.pyc
